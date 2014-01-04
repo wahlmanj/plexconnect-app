@@ -1,12 +1,6 @@
 Package: plexconnect
-Name: plexconnect
 Version: 3.1
 Build-Depends: wget, apt7, mobilesubstrate, python (=2.7.3-3)
 Architecture: iphoneos-arm
 Description: plexconnect on jailbroken ios
-Homepage: Wahlman.j <https://github.com/wahlmanj>
-Depiction: Wahlman.j <https://github.com/wahlmanj>
-Maintainer: Wahlman.j <https://github.com/wahlmanj>
-Author: Wahlman.j <https://github.com/wahlmanj>
-Sponsor: Wahlman.j <https://github.com/wahlmanj>
 Section: Application
