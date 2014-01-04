@@ -1,6 +1,6 @@
 Package: plexconnect
 Version: 3.1
-Build-Depends: wget, apt7, mobilesubstrate, python (=2.7.3-3)
+Depends: wget, apt7, mobilesubstrate, python (=2.7.3-3)
 Architecture: iphoneos-arm
 Description: plexconnect on jailbroken ios
 Section: Application
