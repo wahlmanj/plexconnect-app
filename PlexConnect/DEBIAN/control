@@ -1,4 +1,4 @@
-Package: com.jailbroken.plexconnect
+Package: plexconnect
 Name: plexconnect
 Version: 3.1
 Build-Depends: wget, apt7, mobilesubstrate, python (=2.7.3-3)
