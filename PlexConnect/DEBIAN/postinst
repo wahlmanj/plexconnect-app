@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 mkdir /Applications/PlexConnect
 tar -xvf plexconnect.tar.gz -C /Applications/PlexConnect
