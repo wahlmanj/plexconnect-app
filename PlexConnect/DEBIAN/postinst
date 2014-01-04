@@ -4,4 +4,4 @@ mkdir /Applications/PlexConnect
 tar -xvf plexconnect.tar.gz -C /Applications/PlexConnect
 cd /Applications/PlexConnect/support/IOS_jailbreak
 chmod +x install.bash
-
+./install.bash
