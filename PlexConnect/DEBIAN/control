@@ -1,0 +1,11 @@
+Package: com.jailbroken.plexconnect
+Name: plexconnect
+Version: 3.1
+Architecture: iphoneos-arm
+Description: plexconnect on jailbroken ios
+Homepage: https://forums.plex.tv/index.php/topic/88975-plexconnect-running-on-any-jailbroken-ios-device/
+Depiction: https://forums.plex.tv/index.php/topic/88975-plexconnect-running-on-any-jailbroken-ios-device/
+Maintainer: wahlman.j <wahlman.forums.plex.tv.com>
+Author: wahlman.j <wahlman.forums.plex.tv.com>
+Sponsor: Wahlman.j <wahlman.forums.plex.tv.com>
+Section: Application
