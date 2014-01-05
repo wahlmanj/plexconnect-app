@@ -1,8 +1,12 @@
 #!/bin/bash
 
 mkdir /Applications/PlexConnect
+cd /Applications
 tar -xvf PlexConnect.tar.gz -C /Applications/PlexConnect
 cd /Applications/PlexConnect/support/IOS_jailbreak
 chmod +x install.bash
+./createcert.bash
 ./install.bash
+cd /Applications
+rm PlexConnect.tar.gz
 exit 0
