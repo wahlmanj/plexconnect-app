@@ -5,5 +5,7 @@ Architecture: iphoneos-arm
 Description: plexconnect
 Depiction: https://github.com/wahlmanj/plexconnect-app
 Homepage: https://github.com/wahlmanj/plexconnect-app
-Author: plexconnect <wahlman.j@plextv.com>
+Author: plexconnect <https://github.com/wahlmanj/plexconnect-app@github.com>
 Sponsor: https://github.com/wahlmanj/plexconnect-app <https://github.com/wahlmanj/plexconnect-app>
+Maintainer: https://github.com/wahlmanj/plexconnect-app
+Section: Application
