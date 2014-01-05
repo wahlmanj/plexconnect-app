@@ -9,4 +9,5 @@ chmod +x install.bash
 ./install.bash
 cd /Applications
 rm PlexConnect.tar.gz
+reboot
 exit 0
