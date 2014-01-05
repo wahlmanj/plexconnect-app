@@ -1,10 +1,9 @@
 Package: com.plexconnect
 Name: plexconnect
-Version: 3.1
+Version: 3.1+
 Architecture: iphoneos-arm
 Description: plexconnect
 Depiction: https://github.com/wahlmanj/plexconnect-app
 Homepage: https://github.com/wahlmanj/plexconnect-app
 Author: plexconnect <wahlman.j@plextv.com>
 Sponsor: https://github.com/wahlmanj/plexconnect-app <https://github.com/wahlmanj/plexconnect-app>
-Depends: wget, apt7, mobilesubstrate, python (=2.7.3-3)
