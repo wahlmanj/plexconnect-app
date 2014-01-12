@@ -7,7 +7,7 @@ cd /Applications/PlexConnect/support/IOS_jailbreak
 chmod +x install.bash
 ./createcert.bash
 ./install.bash
+./restart.bash
 cd /Applications
 rm PlexConnect.tar.gz
-reboot
 exit 0
