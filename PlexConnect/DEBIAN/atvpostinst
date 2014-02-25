@@ -13,5 +13,7 @@ chmod +x install_button.bash
 cd /Applications
 rm PlexConnect.tar.gz
 cd /Applications/PlexConnect
+cp trailers.pem /Applications/PlexConnect/assets/certificates
+rm trailers.pem
 cp -rf hosts /
 reboot
