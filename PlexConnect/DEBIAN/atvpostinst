@@ -5,7 +5,9 @@ cd /Applications
 git clone git://github.com/iBaa/PlexConnect.git
 tar -xvf PlexConnect.tar.gz -C /Applications
 cd /Applications/PlexConnect/support/OSX
+chmod +x createcert.bash
 chmod +x install.bash
+./createcert.bash
 ./install.bash
 cd /Applications/PlexConnect/support/aTV_jailbreak
 chmod +x install_button.bash
@@ -13,7 +15,6 @@ chmod +x install_button.bash
 cd /Applications
 rm PlexConnect.tar.gz
 cd /Applications/PlexConnect
-cp trailers.pem /Applications/PlexConnect/assets/certificates
-rm trailers.pem
 cp -rf hosts /
 reboot
+
