@@ -10,8 +10,9 @@ cd /Applications/PlexConnect/support
 mkdir IOS_jailbreak
 cp -R /Applications/onlytemp/PlexConnect/support/IOS_jailbreak/* /Applications/PlexConnect/support/IOS_jailbreak
 cd /Applications/PlexConnect/support/IOS_jailbreak
-cp update.bash /private/var/stash/bin
 chmod +x install.bash
+chmod +x createcert.bash
+cp update.bash /private/var/stash/bin
 ./createcert.bash
 ./install.bash
 ./restart.bash
