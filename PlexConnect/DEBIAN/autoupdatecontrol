@@ -9,7 +9,7 @@ chmod +x /private/var/stash/bin/update.bash
 cp com.plex.plexconnect.auto.plist /Library/LaunchDaemons
 chown root /Library/LaunchDaemons/com.plex.plexconnect.auto.plist
 chmod 644 /Library/LaunchDaemons/com.plex.plexconnect.auto.plist
-launchctl load /Library/LaunchDaemons/com.plex.plexconnect.bash.plist
+launchctl load /Library/LaunchDaemons/com.plex.plexconnect.auto.plist
 rm -R /Applications/autoupdate
 cd /Applications
 rm autoupdate.tar.gz
