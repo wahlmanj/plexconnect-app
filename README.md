@@ -1,7 +1,7 @@
 plexconnect-app
 ===============
 
-# Ignore this internal use only
+# How to build a .deb
 
 change dir to the latest plexconnect from ibaa e.g. /user/desktop/PlexConnect
 tar -czf /users/user/desktop/PlexConnect.tar.gz *
