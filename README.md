@@ -15,10 +15,15 @@ ar vx plexconnect.deb
 make sure to clear all .DS_Store files in all directories before building deb
 
 cd plexconnect
+
 rm .DS_Store
+
 cd Applications
+
 rm .DS_Store
+
 cd DEBIAN
+
 rm .DS_Store
 
 change dir to folder that has that includes the deb file structure e.g. /user/desktop
