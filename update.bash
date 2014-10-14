@@ -6,8 +6,7 @@ PlexConnectPath=${PWD}
 
 fanartcache="${PlexConnectPath}/assets/fanartcache"
 if [ -d "$fanartcache" ]; then
-cd /Applications/PlexConnect/assets/fanartcache
-rm -rf *
+rm /Applications/PlexConnect/assets/fanartcache/*
 touch /PlexConnect/assets/fanartcache/fanart_goes_here.txt
 else
 echo 'fanartcache dir not found'
